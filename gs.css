@@ -8,9 +8,11 @@
     font-family: 'Courier New', Courier, monospace;
     font-size: 15px;
     color: black;
+    background-color: cornsilk;
 }
 .direction:hover{
     background-color: lightblue;
+    color: lightcyan;
 }
 .JOEL{
     font-weight: bold;

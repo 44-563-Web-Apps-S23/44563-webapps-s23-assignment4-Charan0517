@@ -20,3 +20,22 @@
     font-weight: bold;
     color: darkred;
 }
+
+table, th, td{
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align:center;
+    color: chocolate;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+tr:nth-child(even){
+    background-color: aliceblue;
+}

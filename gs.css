@@ -39,3 +39,11 @@ table, th, td{
 tr:nth-child(even){
     background-color: aliceblue;
 }
+
+.JOEL:hover{
+    text-shadow: 4px 4px 1px black;
+}
+
+.ANDREW:hover{
+    text-shadow: 4px 4px 1px black;
+}

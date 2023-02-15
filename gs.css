@@ -42,10 +42,20 @@ tr:nth-child(even){
     background-color: aliceblue;
 }
 
-.JOEL:hover{
+.Name:hover{
     text-shadow: 4px 4px 1px black;
 }
-
-.ANDREW:hover{
-    text-shadow: 4px 4px 1px black;
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:aqua;
+  }
